@@ -14,14 +14,15 @@ Summary: Backport of shutil.which from Python 3.3
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/backports.shutil_which-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/backports.shutil_which-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/backports.shutil_which-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/backports.shutil_which-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/backports.shutil_which-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/backports-shutil-which-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/backports.shutil_which-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/backports.shutil_which-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.shutil_which/badges/version.svg)](https://anaconda.org/conda-forge/backports.shutil_which)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/backports.shutil_which/badges/downloads.svg)](https://anaconda.org/conda-forge/backports.shutil_which)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-backports.shutil_which-green.svg)](https://anaconda.org/conda-forge/backports.shutil_which) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/backports.shutil_which.svg)](https://anaconda.org/conda-forge/backports.shutil_which) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/backports.shutil_which.svg)](https://anaconda.org/conda-forge/backports.shutil_which) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/backports.shutil_which.svg)](https://anaconda.org/conda-forge/backports.shutil_which) |
 
 Installing backports.shutil_which
 =================================
