@@ -1,6 +1,6 @@
 {% set name = "backports.shutil_which" %}
-{% set version = "3.5.1" %}
-{% set sha256 = "dd439a7b02433e47968c25a45a76704201c4ef2167deb49830281c379b1a4a9b" %}
+{% set version = "3.5.2" %}
+{% set sha256 = "fe39f567cbe4fad89e8ac4dbeb23f87ef80f7fe8e829669d0221ecdb0437c133" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 2
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
